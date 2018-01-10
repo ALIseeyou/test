@@ -1,9 +1,9 @@
 print("En este juego, debes tratar de adivinar un numero del uno al diez, tienes 5 vidas <3 ")
 guess_number = 3
 user_number = int(input("Introduce tu numero: "))
-win = ("Ganaste wiiiiiiiiiii!!!!!!!!!! ")
+win = ("Ganaste felicidades!! ")
 lose = ("Perdiste")
-total_lose = ("Perdiste las 5 vidas, vaya noob mira que era facil, el numero era {}".format(guess_number))
+total_lose = ("Perdiste las 5 vidas, vaya noob mira que era facil, el numero era {} =)".format(guess_number))
 retry = ("intentalo de nuevo")
 ##player_lives = 5
 
